@@ -1,0 +1,15 @@
+Analisi hash progetto a, i commenti fanno riferimento a modifiche sul progetto b (una sua dipendenza)
+
+v1: c8c88e168d783075f8714c9eaa13cc3a2dd27391f588b3fc4b707ca0fc3a493a
+
+-- cambio proprietà pubblica in una dipendenza
+v2: 32b5d0123c8aea12df5f52fb243c92b1c575add488b5f30efd2a91eb21bc9dda
+
+-- cambio proprietà pubblica in una dipendenza con deterministic = true
+v3: 127aba759004c5c30de165b735ea120024452d6a74575b38360839e108b1af66
+
+-- nessuna modifica con deterministic = false
+v4: bf8a2bf5f6e04093254ee692cf48f1b808fcb06ba724133c6e3c8ff59e3ce8e8
+
+-- cambio proprietà privata in una dipendenza con deterministic = true
+v5: 127aba759004c5c30de165b735ea120024452d6a74575b38360839e108b1af66

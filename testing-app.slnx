@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="analisi-hash/analisi-hash.txt" />
+  </Folder>
+  <Project Path="src/project.a/project.a.csproj" />
+  <Project Path="src/project.b/project.b.csproj" />
+  <Project Path="src/testing-app/testing-app.csproj" />
+</Solution>
