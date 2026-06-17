@@ -13,3 +13,6 @@ v4: bf8a2bf5f6e04093254ee692cf48f1b808fcb06ba724133c6e3c8ff59e3ce8e8
 
 -- cambio proprietà privata in una dipendenza con deterministic = true
 v5: 127aba759004c5c30de165b735ea120024452d6a74575b38360839e108b1af66
+
+-- nessuna modifica con deterministic non specificato
+v6: 127aba759004c5c30de165b735ea120024452d6a74575b38360839e108b1af66
